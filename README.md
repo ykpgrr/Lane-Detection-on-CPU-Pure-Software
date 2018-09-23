@@ -1,13 +1,17 @@
 # Lane-Detection 
 UDACITY Self Driving Car Advance Lane Detection project based Lane Detection Algorithms. <br />
 
-This project realized in C++ and OpenCV Library and it is a sub-task of "REALIZATION OF LANE DETECTION ALGORITHMS ON FPGA USING SDSOC AND VIVADO" graduate project at Istanbul Technical University, June 2018. <br />
+This project realized in C++ and OpenCV Library.<br /> 
+It is a sub-task of "REALIZATION OF LANE DETECTION ALGORITHMS ON FPGA USING SDSOC AND VIVADO" graduate project at Istanbul Technical University, June 2018. <br />
 
 Project members: <br />
 Yakup GÖRÜR (gorury@itu.edu.tr) - Software and SDSoC  Platform <br />
 Mehmet Akif AKKAYA (akifakkaya1@gmail.com) - VIVADO Platform <br />
-
 Sıddıka Berna ÖRS YALÇIN (Advisor) <br />
+
+1-) __Lane Detection ()<br />__
+2-) Lane Detection SDSoC FPGA () <br />
+3-) Lane-Detection VIVADO FPGA () <br />
 
 ## TODO
 - Update Readme <br />
