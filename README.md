@@ -9,7 +9,7 @@ Yakup GÖRÜR (gorury@itu.edu.tr) - Software and SDSoC  Platform <br />
 Mehmet Akif AKKAYA (akifakkaya1@gmail.com) - VIVADO Platform <br />
 Sıddıka Berna ÖRS YALÇIN (Advisor) <br />
 
-1-) __Lane Detection ()<br />__
+__1-) Lane Detection ()<br />__
 2-) Lane Detection SDSoC FPGA () <br />
 3-) Lane-Detection VIVADO FPGA () <br />
 
